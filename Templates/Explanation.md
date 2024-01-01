@@ -2,14 +2,15 @@
 
 ## Background
 
-Replace this text with a description of the issue you want to explain. Please do not change title headings in this template. Thank you for your help!
+You have an article on geospatial analysis in power bi / power query at : https://exasol.my.site.com/s/article/Working-with-Exasol-geospatial-data-in-Power-BI?language=en_US
 
 ## Explanation
 
-Replace this text with an in-depth explanation of the topic.
-
+The explanations of these functions is limited on microsoft's site. I've created an elaborate syntax guide on it and I think it may help your readers understand what's required for the function. 
 ## Additional References
 
-Replace this text with helpful links to other information. Otherwise, delete this section and the Additional References section title.
+You can find the information at: 
+https://powerquery.how/geography-towellknowntext/
+https://powerquery.how/geography-fromwellknowntext/
 
 *We appreciate your input! Share your knowledge by contributing to the Knowledge Base directly in [GitHub](https://github.com/exasol/public-knowledgebase).* 
