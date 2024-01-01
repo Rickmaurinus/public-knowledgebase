@@ -143,6 +143,11 @@ A how to on icon-map by the author himself:
 A post by Microsoft's Chris Webb on recent additions to Power BI for working with WKT types which goes over the Geography/Geometry/WKT conversion functions in more detail:  
 <https://blog.crossjoin.co.uk/2020/08/16/power-query-geography-and-geometry-functions-in-power-bi-and-excel/>
 
+In Depth syntax explanations for Geography functions on PowerQuery.How: 
+https://powerquery.how/geography-fromwellknowntext/
+https://powerquery.how/geography-towellknowntext/
+https://powerquery.how/geographypoint-from/
+
 The wikipedia entry on Well Known Text:  
 <https://en.wikipedia.org/wiki/Well-known_text_representation_of_geometry>
 
